@@ -53,7 +53,7 @@ NOTE: ! STILL UNDER CONSTRUCTION !
 </p>
 
 ## Preview: ##
-<p >
+<p align="center">
 <img src="preview img/graphs-1.png" height="700px" >
 <img src="preview img/graphs-2.png" height="700px"  >
 </p><br>
