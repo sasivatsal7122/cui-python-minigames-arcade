@@ -54,7 +54,7 @@ NOTE: ! STILL UNDER CONSTRUCTION !
 
 ## Preview: ##
 <p >
-<img src="preview img/graphs-1.png" height="700px" width="480px">
-<img src="preview img/graphs-2.png" height="700px" width="480px" >
+<img src="preview img/graphs-1.png" height="700px" >
+<img src="preview img/graphs-2.png" height="700px"  >
 </p><br>
 <hr style="border:2px solid gray"> </hr>
