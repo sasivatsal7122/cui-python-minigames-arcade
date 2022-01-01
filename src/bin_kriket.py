@@ -154,6 +154,3 @@ else:
     print(f"$ you're score is {u_skore}")
     print(f"$ computer score is {sys_skore}")
     print(f"$ computer won the match by {sys_skore-u_skore} runs")
-i created a beta branch and i am going to push it to the beta branch so that master is unaffected
-
-this is a line 2 in beta branch and a test -2 
